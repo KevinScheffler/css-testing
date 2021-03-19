@@ -1,0 +1,51 @@
+/* elements */
+/* * {
+    background-color: skyblue;
+    border: 1px solid black;
+} */
+/* * {
+    margin: 0;
+}
+
+h1 {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+/* classes */
+/* .sub-header {
+    font-size: 30px;
+} */
+
+
+/* ids */
+/* #main-header {
+    font-size: 80px;
+} */ 
+
+/* h1 {
+    font-family: Impact;
+    font-size: 3rem;
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+    color: rgb(54, 163, 206);
+}
+
+.secondary {
+    color: green;
+} */
+
+
+h1 {
+    color: rgba(34, 255, 0, .3);
+    background-color : #000000;
+    border: #ff11ff;
+}
+
+h2 {
+
+}
